@@ -8,6 +8,7 @@ lsp.ensure_installed({
 	'cssls',
 	'eslint',
 	'tsserver',
+    'texlab'
 })
 
 lsp.on_attach(function(client, bufnr)
