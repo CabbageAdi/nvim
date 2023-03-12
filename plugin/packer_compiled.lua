@@ -114,11 +114,6 @@ _G.packer_plugins = {
     path = "/home/adi/.local/share/nvim/site/pack/packer/start/gruvbox",
     url = "https://github.com/morhetz/gruvbox"
   },
-  ["lsp-zero.nvim"] = {
-    loaded = true,
-    path = "/home/adi/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
-    url = "https://github.com/VonHeikemen/lsp-zero.nvim"
-  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/adi/.local/share/nvim/site/pack/packer/start/lualine.nvim",
