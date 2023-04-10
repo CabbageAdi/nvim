@@ -40,7 +40,9 @@ local servers = {
 	'tsserver',
     'texlab',
     'lua_ls',
-    'omnisharp'
+    'omnisharp',
+    'clangd',
+    'jdtls'
 }
 
 require("mason").setup()
