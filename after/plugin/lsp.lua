@@ -42,7 +42,8 @@ local servers = {
     'lua_ls',
     'omnisharp',
     'clangd',
-    'jdtls'
+    'jdtls',
+    'pyright'
 }
 
 require("mason").setup()
